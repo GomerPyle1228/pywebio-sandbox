@@ -19,5 +19,5 @@ def bmi():
             break
 
 if __name__ == '__main__':
-   bmi()
-   #start_server(bmi,host='baumdotcom.com', port=80)
+   #bmi()
+   start_server(bmi,host='baumdotcom.com', port=80)
